@@ -14,6 +14,11 @@ Homebrodot ("Homebrew-doe") is a custom version of the Godot game engine that su
 
 And more to come!
 
+## See also
+
+Check out our sister project, [Fusion Engine](https://github.com/TheFusionEngine)!
+A fork of Godot 1 that focuses on small binary sizes and support for older homebrew platforms.
+
 ## Join us on Discord
 
 [![Discord Shield](https://dcbadge.vercel.app/api/server/yUC3rUk "Join our Discord server")](https://discord.gg/mYzXDke5yv "Homebrodot - Godot Homebrew Hub")
